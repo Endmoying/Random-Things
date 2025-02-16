@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/randomcore/RandomThings.randomcore.main.iml" filepath="$PROJECT_DIR$/.idea/modules/randomcore/RandomThings.randomcore.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/randomthings-base/RandomThings.randomthings-base.main.iml" filepath="$PROJECT_DIR$/.idea/modules/randomthings-base/RandomThings.randomthings-base.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/randomthings-base/RandomThings.randomthings-base.test.iml" filepath="$PROJECT_DIR$/.idea/modules/randomthings-base/RandomThings.randomthings-base.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/randomthings/RandomThings.randomthings.main.iml" filepath="$PROJECT_DIR$/.idea/modules/randomthings/RandomThings.randomthings.main.iml" />
+    </modules>
+  </component>
+</project>
